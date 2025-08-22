@@ -7,7 +7,7 @@ Showcases personal details, education, skills, and experience in a structured fo
 ## ✨ **Features**
 - 🧑‍💼 **Personal Information Section**
 - 🎓 **Education & Qualifications**
-  - 💼 **Work **
+- 💼 **Work Experience**
 - 🛠️ **Skills Overview**
 - 🏆 **Achievements Section** – certifications and milestones
 - 📂 **Projects Section** – Showcase key academic or personal project
